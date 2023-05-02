@@ -54,6 +54,8 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+<a href="https://www.buymeacoffee.com/ali96fayod"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=☕&slug=ali96fayod&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 ## License
 
 [Ali Fayod](https://github.com/AliFayod)
